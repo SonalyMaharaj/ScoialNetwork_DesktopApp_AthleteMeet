@@ -1,0 +1,1 @@
+java --module-path C:\Users\User\Desktop\CSCPracs\javafx-sdk-11\lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media -jar 217031068_miniproject.jar
